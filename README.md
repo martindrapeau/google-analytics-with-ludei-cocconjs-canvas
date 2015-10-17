@@ -15,3 +15,6 @@ To use:<br />
 I found quite some outdated information when I wanted to use Google Analytics with my Canvas+ game. I found this two very helpful articles and made this up to date example:<br />
 http://www.blastam.com/blog/index.php/2013/07/ga-universal-analytics-phonegap-mobile-apps/<br />
 http://remvst.com/article-49-using-google-analytics-within-cocoonjs.html<br />
+
+Extra notes:
+Instead of downloading analytics.js, you can instead point to it. Modify analytics_web_view.html to do so. That way you always have the latest and greatest.
